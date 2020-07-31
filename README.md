@@ -3,9 +3,9 @@
 Please fill out:
 * Student name: Charlotte Basch
 * Student pace: self paced / part time / <strong> full time </strong>
-* Scheduled project review date/time: August 8 - 4pm
+* Scheduled project review date/time: August 8 at 4pm
 * Instructor name: James Irving
-* Blog post URL: https://charsarb.github.io/choosing_visualizations
+* Blog post URL: https://charsarb.github.io/choosing_visualizations 
 
 
 #  Introduction
